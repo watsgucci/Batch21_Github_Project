@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Jimmy 2 times");
         System.out.println("senior Elivs");
         System.out.println("more comments");
+        System.out.println();
     }
 }
